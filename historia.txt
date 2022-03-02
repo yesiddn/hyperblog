@@ -1,7 +1,1 @@
-Hola, este es el primer documento para estudiar y probar git.
-
-En windows exite otro archivo llamado historia.txt que también lo uso para aprender git en windows.
-
-Soy Duvan Yesid, tengo 17 años y vivo en Duitama.
-
-Mañana nos enfocaremos de su vida laboral
+jobs

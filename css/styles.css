@@ -17,3 +17,20 @@ body {
 .container h1 {
     font-size: 20px;
 }
+
+.cabecera {
+    background: #64008b;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.cabecera span {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+>>>>>>>cabecera
