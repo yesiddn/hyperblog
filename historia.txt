@@ -4,6 +4,6 @@ En windows exite otro archivo llamado historia.txt que también lo uso para apre
 
 Soy Duvan Yesid, tengo 17 años y vivo en Duitama.
 
-Jess tiene 21 años y nació en Internet.
+Jess tiene 21 años y nació en Internet. Es una persona que contribuye a este proyecto open source.
 
 Mañana nos enfocaremos de su vida laboral
