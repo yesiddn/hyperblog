@@ -9,5 +9,6 @@ Un blog increíble para el uso de Git y GitHub.
 *EL verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor
 *Las personalidades multiples de Freddy
+*Creado por Yesid_dn (Jess)
 
 Y como un amable recordatorio: **Este readme.md es un chiste** diseñado para el ejemplo.
