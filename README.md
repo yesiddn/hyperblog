@@ -11,5 +11,6 @@ Un blog increíble para el uso de Git y GitHub.
 *Las personalidades multiples de Freddy
 *Creado por Yesid_dn (Jess)
 *Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste** diseñado para el ejemplo.
