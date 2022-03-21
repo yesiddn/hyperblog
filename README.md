@@ -10,5 +10,6 @@ Un blog increíble para el uso de Git y GitHub.
 *Trucos muy locos del profesor
 *Las personalidades multiples de Freddy
 *Creado por Yesid_dn (Jess)
+*Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste** diseñado para el ejemplo.
